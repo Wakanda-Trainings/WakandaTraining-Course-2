@@ -1,0 +1,1 @@
+model.Company.events.onValidate = function () {				//Company name must be 3 or more charaters.				if (this.name.length < 3) {					return {error: 44, errorMessage: "Company name has a required minimum length of 3 characters."};				}			};

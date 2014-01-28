@@ -1,0 +1,1 @@
+(model.State.methods.getStates = function (term) {				var matchStates = ds.State.query("usps == :1", term + '*');				return matchStates.toArray("usps");			}).scope = "public";
