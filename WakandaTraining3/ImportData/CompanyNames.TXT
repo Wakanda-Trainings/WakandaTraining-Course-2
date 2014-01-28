@@ -1,0 +1,262 @@
+Company_Name	City	Revenues
+First Nationwide	San Jose	200000
+Copithorne & Bellows	Santa Clara 340000
+FMC	Milpitas	540000
+BBDO	Santa Clara	344000
+Oakland East Bay Symphony	Oakland	560000
+Valley Health System	San Jose	120000
+Val Strough Company	Milpitas	340000
+iSyndicate	Cupertino	444000
+Clif Bar Inc.	Mountain View	110000
+Specialty Brands	San Jose	900000
+Trans-Illuminat	Milpitas	230000
+HOBY	Los Gatos	340000
+C.E. Heath	San Jose	670000
+Children's Hospital at Stanford	Palo Alto	680000
+Bon Motif Company	San Jose	230000
+Information Express	San Jose	350000
+Marin Medical Practice Concepts	Cupertino	560000
+Renaissance Worldwide, Inc.	Los Gatos	455000
+Raychem Corporation	Santa Clara	670000
+Jefferson Gas Systems	Campbell	890000
+IMPAC Group/AGI Inc.	Santa Clara	780000
+Therapy Resources Inc.	Santa Clara	670000
+Catholic Healthcare West	Los Gatos	340000
+Cybele Productions	Santa Clara	100000
+NortonHoffberg and Company, Inc.	Cupertino	340000
+SIMS LMC	San Jose 230000
+Somatix	San Jose 560000
+Alameda County Medical Center	Santa Clara	570000
+DynEd International	Campbell	440000
+Integrated Project Systems	Santa Clara	780000
+Kleiner, Perkins	Los Gatos	300000
+ADP/ASG	San Jose	450000
+Torrance Hospital	Santa Clara	120000
+Global Health Sciences Inc.	Santa Clara	900000
+Fit For Life	San Jose	800000
+Brown & Toland Physician Services Org.	Cupertino	200000
+OCLI	Los Gatos	210000
+ABC Multimedia	Campbell	340000
+Wired Rite Systems Inc.	Santa Clara	400000
+Lawrence Berkeley Laboratory	Santa Clara	780000
+UCSF-Mount Zion Cancer Center	San Francisco	890000
+SRI International	Santa Clara 670000
+Trammell Crow Corporate Services	San Jose	340000
+SwiftTouch Corporation	Cupertino	110000
+Fran's Healthy Helpings	Campbell	450000
+Storage Dimensions	Los Gatos	560000
+Internet Access Financial Corporation	Santa Clara	450000
+IMP	San Jose	670000
+Western International Media	Cupertino	780000
+Interaction Associates	Santa Clara	890000
+Provident Central Credit Union	Santa Clara	670000
+Age Wave	Los Gatos	670000
+Swander Pace Capital	Santa Clara	560000
+Charles Schwab & Co.	Cupertino	560000
+Malley And Associates	Campbell	444000
+Change Integration Systems	Santa Clara	566000
+Masters Institute	Los Gatos	344000
+Concord Growth Corporation	Santa Clara	555000
+Maromatic Co. Inc.	Los Gatos	444000
+Second Harvest Food Bank	555555
+MicroModule	Santa Clara	344555
+Colossal Pictures	San Jose	555777
+Diefenbach Elkins	Los Gatos	344000
+LifeScan, Inc	Campbell	230999
+Goodwill Industries of San Joaquin Valley	Los Angeles	455000
+UCSF	San Francisco	230899
+Share Customer Service, Inc.	Santa Clara	344000
+GT Global	Santa Clara	356000
+Mallinckrodt	San Jose	900888
+Dreyer's	Los Gatos	500900
+St. Francis/Sequoia Hospital	San Francisco	455800
+Everex	Campbell	Santa Clara	555900
+Shamrock Consulting	Santa Clara	600900
+RBI	San Jose	600900
+Exploratorium	Santa Clara	300900
+Vendo Company	Campbell	400900
+Zitter Group	Fremont	350900
+Permanente Medical Group, Inc.	Los Gatos	200900
+Therma-Wave	Fremont	230900
+Nellcor, Puritan, Bennett	San Jose	450900
+Classic Custom Vacations	Fremont	230900
+B.T. Mancini Company	Milpitas	340900
+Elexsys International Inc.	Fremont	450900
+Mid-Peninsula Housing	Cupertino	450900
+TENCOR	Fremont	240900
+Amgen Inc.	San Jose	110000
+Cunningham Communication, Inc.	Los Gatos	900800
+Mortgage Information Corp.	Cupertino	340900
+Access Softek	Campbell	230900
+Pasqua	Campbell	540000
+Management Associates	Los Gatos	450000
+Onlive! Technologies	Fremont	800900
+Genesys Telecommunications	Palo Alto 670900
+Pepperdine U	Los Angeles	120900
+California Federal Bank	Fremont	800900
+Ketchum Communications	Fremont	240900
+Boalt Hall - UC at Berkeley	Cupertino	450900
+Sanwa Bank	Los Gatos	309899
+marvin orphanage	Campbell	780900
+EPRI	San Jose	560900
+Netcentives	Fremont	450900
+Halcyon Software	Fremont	230800
+KP Consulting	San Jose	345000
+Olympic Club	Campbell	450900
+Guardian Health Group	San Jose	120000
+Systems Consulting Consortium, Inc.	230900
+B2B Connect, Inc.	Los Gatos	300900
+Heidrick & Struggles	Fremont	230900
+Crown Services, Inc.	Cupertino	340900
+Food.Com	Los Gatos	450900
+Washington Hospital	Palo Alto	450900
+World Industries	Campbell	560900
+PPM	San Jose	120900
+Assante	Fremont	450900
+Alibris	Los Gatos	450900
+Muse Communications Corporation	Palo Alto	560900
+CNET	Fremont	450900
+StarMedia Networks	Cupertino	700900
+GreenTree Nutrition	Fremont	340900
+MDTSC	Campbell	120900
+SOF Inc.	San Jose 500900
+Idea Factory	Fremont	560900
+International Asset Systems	Cupertino	450900
+Shop2gether.Com	Fremont	120900
+UC Irvine	Los Angeles	450800
+EHow	Fremont	700900
+Tradewind Corporation	Cupertino	340900
+ThemeWare	San Jose	466000
+Transamerica	San Francisco	120900
+Signet Assurance Company	Santa Clara 900000
+Knowlegis.Com	Campbell	980000
+Northbay Healthcare System	Santa Clara	455000
+Prio, Inc.	Cupertino	120000
+Wall Street Journal	Palo Alto	240000
+BoldFish	Los Gatos	450000
+IMom.Com, Inc.	Santa Clara	670000
+Debates.Com	Campbell	800900
+Theirishplace.Com	Fremont	455000
+Onlineasset.Com	Los Gatos	670000
+John Hancock Mutual Life Insurance Company	900877
+Marketing Plus	San Jose	900877
+Sydran Services	Fremont	800900
+WFN - Financial Network For Women 790800
+CookePharma	Los Gatos	Campbell	455000
+PayMyBills.Com, Inc.	Fremont	349000
+Salick Healthcare	Gilroy	120000
+NBCi	Fremont	110000
+WB Mason	Santa Clara	600900
+Delta Dental	San Jose	700900
+Global Medical Supply	Fremont	700900
+Sutter Delta Medical Center	Fremont	455000
+VentureOne	Los Gatos	600900
+Pinnacle Composite Solutions	Fremont	500900
+World Telehealth	Campbell	455000
+LGES	Santa Clara	800900
+Star Age Music	Gilroy	700900
+Healtheon/WebMD	San Jose	700900
+SalesLink Corp	Los Gatos	670900
+CSC Consulting Group	Santa Clara	670900
+Consumer Health Interactive	Fremont	344000
+Inspiria.Com	Campbell	560900
+Ship4.Com	San Jose	670900
+Bestoffer.Com	Santa Clara	344000
+Gordon Brothers Group	455000
+Localmusic.Com	San Jose	600900
+Imammogram.Com	Los Gatos	700900
+San Francisco Bicycle Coalition	San Francisco	560900
+Professional Exhibits & Graphics	Santa Clara	455000
+Digi-Block, LLC	Campbell	433000
+Ulico Insurance Group	Gilroy	450900
+DeVine Consulting	San Jose	670900
+Sony Music Incubator	Santa Clara 455000
+Agua Caliente Band Of Cahuilla Indians	Fremont	560800
+Pohly And Partners	Fremont	450900
+Examen	Los Gatos	560900
+Vivant	Campbell	450900
+Sebastiani	Santa Clara	450900
+Lifeline Systems Inc.	Fremont	230900
+Goodwill Industries Of San Francisco	San Francisco	560900
+Autostory	Los Gatos	670900
+Boston Financial Data Services	Boston	450900
+Gemstone	Santa Clara	340900
+Fidelity Investments	Gilroy	234000
+Green Market Services	120900
+Maverick Media	Santa Clara	600900
+Cambridge Executive Enterprises, Inc.	Fremont	560900
+Digitas	Campbell	Santa Clara	450900
+Big Bear	Fremont	900800
+Monster Cable	Los Gatos	120000
+Dynamic Digital Depth Inc.	Fremont	340900
+WeVest	Campbell	700900
+LSI LOGIC	San Jose	450900
+Loomis Sayles Inc.	Gilroy	340000
+Buzzsaw	Santa Clara	340000
+Preston Productions, Inc.	Fremont	566000
+BidVantage, Inc	Santa Clara	455000
+ESupportNow, Inc.	San Jose	677000
+San Francisco Chamber Of Commerce	Gilroy	344000
+State Street Research	Gilroy	233000
+Nextdoor Networks, Inc.	344000
+Mayfield Fund	San Jose	200122
+Danielle Roman	Campbell	344000
+AXA Client Solutions 344000
+SPL WorldGroup	Los Gatos	120000
+Spiderdance	San Jose	455000
+Larkin Street Youth Center	Gilroy	344000
+CoRelation	San Jose	455000
+BroadVision	Campbell	500900
+PMPM Consulting Group, Inc.	Fremont	344000
+Sunset Publishing Corporation	Fremont	455000
+IXL	San Jose	455000
+Dionex Corporation	Gilroy	450900
+State Compensation Insurance Fund	400900
+California College Of Podiatric Medicine	Gilroy	500900
+Instuction Set, Inc.	600900
+Vibco, Inc.	San Jose	700900
+ABC Consulting, Inc.	600900
+KorTeam International, Inc.	300900
+Manufacturers' Services Ltd.	San Jose	700900
+Healthcare Automation	Gilroy	800900
+Citadon	San Jose	780000
+Carol Franc Buck Breast Cancer Center (UCSF)	700000
+Campsix	Fremont	670000
+Zions Management Services	Gilroy	700900
+Wells Fargo Fund Management LLC	San Francisco	600900
+Public Advocates, Inc.	Fremont	780000
+HP Hood	Gilroy	670000
+Buylink	San Jose	700900
+Entercomm	Fremont	570000
+Zoza	Campbell	560000
+Paul Medved Attorney At Law	Gilroy	670000
+Seagate Properties, Inc.	Fremont	670000
+Marin Catholic	San Jose	670000
+The Leadership Equation Institute	560000
+The Holmes Group	Fremont	670000
+Ellis Partners/CAC Real Estate	Gilroy	560000
+Pacific Gas And Electric	Fremont	450800
+Food On Foot	Campbell	200300
+QRS Corporation	San Jose	120000
+UCLA	Los Angeles	600000
+Rood Structures, Inc.	Fremont	500000
+Regale	Gilroy	450000
+Ocular Sciences	Campbell	230700
+Nevada Ventures	Gilroy	120900
+Gunderson Dettmer	San Jose	458900
+Whole Foods Market	Campbell	670900
+Consumer Credit Counseling Services	San Francisco	800900
+General Dynamics	Gilroy	450000
+Silicon Energy	San Jose	344000
+SiliCycle, Inc.	Santa Clara	560000
+Student Advantage	Cupertino	380000
+Ulysses Learning Corporation	Oakland	560000
+BioRemote	Palo Alto	899000
+Blue Cross Of California	San Jose	900000
+BrassRing, Inc.	Santa Clara	560000
+San Jose Medical Center	San Jose	450000
+KeyBank	San Jose	780000
+Health Net, Inc	Santa Clara	340000
+Cocoa Pete's	Morgan Hill	450000
+ATALX Corporation	Gilroy	450000
+The Stuart Foundation	Palo Alto 120000
